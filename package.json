@@ -1,0 +1,26 @@
+{
+  "name": "goit-advancedjs-hw-06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLazoryk/goit-advancedjs-hw-06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MLazoryk/goit-advancedjs-hw-06/issues"
+  },
+  "homepage": "https://github.com/MLazoryk/goit-advancedjs-hw-06#readme",
+  "devDependencies": {
+    "init": "^0.1.2",
+    "typescript": "^7.0.2",
+    "typescriptnpm": "^1.0.1"
+  }
+}
